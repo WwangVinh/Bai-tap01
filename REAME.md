@@ -1,3 +1,5 @@
 Lê Quang Vinh 
 BIT220188
-![alt text](image.png)
+<p align="center">
+  <img src="ketqua.png" alt="ketqua.png" width="250"/>
+</p>
